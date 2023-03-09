@@ -3,13 +3,13 @@
 
 The script imports several necessary libraries including:
 
-**urlparse from urllib.parse:** a library that provides functionality to parse URLs into their various components.
+a) **urlparse from urllib.parse:** a library that provides functionality to parse URLs into their various components.
 
-**Flask, request, and jsonify from flask:** a lightweight web framework for building web applications, and utilities for working with HTTP requests and JSON data.
+b) **Flask, request, and jsonify from flask:** a lightweight web framework for building web applications, and utilities for working with HTTP requests and JSON data.
 
-**requests:** a library for making HTTP requests and handling responses.
+c) **requests:** a library for making HTTP requests and handling responses.
 
-**BeautifulSoup from bs4:** a library for parsing HTML and XML documents.
+d) **BeautifulSoup from bs4:** a library for parsing HTML and XML documents.
 
 The code defines **two endpoints for the web application:**
 
