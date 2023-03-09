@@ -1,13 +1,14 @@
 # URL_PROJECT 
  This project is a Flask web application that processes a list of URLs, extracts relevant data, and saves it to a SQLite database. It also provides an endpoint for retrieving statistics about the URLs based on their domain name. The repository includes the code for the Flask app and a sample SQLite database.
 
-This is a Python script that uses Flask framework to build a web application that can process URLs and store data to SQLite database, and retrieve statistics of domain names from the stored data.
-
 The script imports several necessary libraries including:
 
 **urlparse from urllib.parse:** a library that provides functionality to parse URLs into their various components.
-Flask, request, and jsonify from flask: a lightweight web framework for building web applications, and utilities for working with HTTP requests and JSON data.
+
+**Flask, request, and jsonify from flask:** a lightweight web framework for building web applications, and utilities for working with HTTP requests and JSON data.
+
 **requests:** a library for making HTTP requests and handling responses.
+
 **BeautifulSoup from bs4:** a library for parsing HTML and XML documents.
 
 **The code defines two endpoints for the web application:**
