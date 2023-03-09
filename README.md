@@ -3,7 +3,7 @@
 **#1 To send a POST request to the /process_urls endpoint using curl, follow these steps:**
 
 1. Open a terminal window.
-2. Type the following command(use input_urls_formatted.txt to fill in a bunch of urls) :
+2. Type the following command **(use input_urls_formatted.txt to fill in a bunch of urls)**:
 
 curl -X POST \
   http://localhost:8000/process_urls \
