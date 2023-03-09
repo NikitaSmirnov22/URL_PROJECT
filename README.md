@@ -35,4 +35,4 @@ The code connects to a SQLite database named webpage.db using the sqlite3 librar
 **title:** the title of the web page (if available)
 **domain_name:** the domain name of the web page
 
-When the web application is run, it listens for incoming HTTP requests on the default Flask port 8000.
+When the web application is run, it listens for incoming HTTP requests on the default Flask **port 8000**.
