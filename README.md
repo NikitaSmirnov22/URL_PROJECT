@@ -1,5 +1,5 @@
-# URL_PROJECT
-  \nThis project is a Flask web application that processes a list of URLs, extracts relevant data, and saves it to a SQLite database. It also provides an endpoint for retrieving statistics about the URLs based on their domain name. The repository includes the code for the Flask app and a sample SQLite database.
+# URL_PROJECT 
+ This project is a Flask web application that processes a list of URLs, extracts relevant data, and saves it to a SQLite database. It also provides an endpoint for retrieving statistics about the URLs based on their domain name. The repository includes the code for the Flask app and a sample SQLite database.
 
 This is a Python script that uses Flask framework to build a web application that can process URLs and store data to SQLite database, and retrieve statistics of domain names from the stored data.
 
